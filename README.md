@@ -1,6 +1,7 @@
 # test
 Test repo
 
-Version 1
-bla bla 
-dupa dupa
+Version 2
+dupa dupa2
+
+dupa
